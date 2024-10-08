@@ -28,10 +28,10 @@ const ProfileComponent = () => {
           <div className="md:text-2xl text-lg">Frontend Web Developer</div>
           <br />
           <div className="md:text-base text-sm">
-            Graduated in 2020 with a major in computer and network engineering,
-            started his career as a front end web developer in 2021 using NextJS
-            as a framework, has some experience and participated in internships
-            at several companies.
+            Graduated from PANDU Vocational School with a major in computer and
+            network engineering, started his career as a front end web developer
+            in 2021 using NextJS as a framework, have experience and participate
+            in internships in several companies.
           </div>
         </div>
       </div>
